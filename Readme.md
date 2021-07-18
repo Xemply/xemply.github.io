@@ -1,1 +1,1 @@
-<button type="button" onclick="alert('Hello World!')">Click Me!</button>
+<button type="button" onclick="<a href="http://xemply.github.io/gtag-hats "</a>>Click Me!</button>
